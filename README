@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=315
+
+this is a syntax file for xchat log files so those that look at them alot
+can read them easier than pure flat uncolored text
+
+the syntax is setup just like what xchat outputs minus the colored nicks option
+i hope to add that sometime but it could be a while if at all
+
